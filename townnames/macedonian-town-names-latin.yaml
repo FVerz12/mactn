@@ -54,11 +54,4 @@ mainset:
     probability: 1
 name: Macedonian Town Names (Latin)
 source: null
-subsets:
-- name: newset-0
-  parts:
-  - names:
-    - name: Kratovo
-      probability: 1
-    - name: Bogdanci
-      probability: 1
+subsets: []
