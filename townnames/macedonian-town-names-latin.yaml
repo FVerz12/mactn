@@ -24,6 +24,34 @@ mainset:
     probability: 1
   - name: Kavadarci
     probability: 1
+  - name: Kocani
+    probability: 1
+  - name: Kicevo
+    probability: 1
+  - name: Struga
+    probability: 1
+  - name: Radovis
+    probability: 1
+  - name: Gevgelija
+    probability: 1
+  - name: Debar
+    probability: 1
+  - name: Kriva Palanka
+    probability: 1
+  - name: Sveti Nikole
+    probability: 1
+  - name: Negotino
+    probability: 1
+  - name: Delcevo
+    probability: 1
+  - name: Vinica
+    probability: 1
+  - name: Resen
+    probability: 1
+  - name: Probistip
+    probability: 1
+  - name: Berovo
+    probability: 1
 name: Macedonian Town Names (Latin)
 source: null
 subsets: []
