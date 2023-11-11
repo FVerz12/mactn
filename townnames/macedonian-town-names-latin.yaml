@@ -1,0 +1,29 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Skopje
+    probability: 1
+  - name: Bitola
+    probability: 1
+  - name: Kumanovo
+    probability: 1
+  - name: Prilep
+    probability: 1
+  - name: Tetovo
+    probability: 1
+  - name: Veles
+    probability: 1
+  - name: Stip
+    probability: 1
+  - name: Ohrid
+    probability: 1
+  - name: Gostivar
+    probability: 1
+  - name: Strumica
+    probability: 1
+  - name: Kavadarci
+    probability: 1
+name: Macedonian Town Names (Latin)
+source: null
+subsets: []
